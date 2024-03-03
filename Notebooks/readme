@@ -1,1 +1,3 @@
-This folder contains the notebooks and it will also store all the DHS data that are downloaded and processed.
+This folder contains Jupyter notebooks dedicated to the analysis of heart-specific regulatory elements leveraging the capabilities of DNABERT. 
+The notebooks guide you through the process of identifying potential regulatory sequences in heart tissue, with a focus on understanding their unique roles and functionalities.
+All the files that are downloaded and processed are stored in this folder itself.
