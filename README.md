@@ -1,4 +1,4 @@
-# CardiacRE-DHS-DNABERT
+<h1 align="center">CardiacRE-DHS-DNABERT</h1>
 A work-in-progress repository leveraging DHS data and DNABERT for identifying cardiac-specific regulatory elements. It hosts analytical notebooks and tools dedicated to genomic exploration of heart tissues.
 
 Welcome to our repository, where we dive deep into the heart of genomics to map out cardiac-specific regulatory elements. Our mission is to employ a robust blend of DNase I hypersensitive sites (DHSs) data and the DNABERT model, a transformative approach to DNA sequence understanding through deep learning.
