@@ -10,7 +10,6 @@ The heart is a complex organ with a unique genomic landscape that guides its fun
 ## What's Inside
 
 - **Computational Notebooks**: Step-by-step Jupyter notebooks illustrating our methodologies, from data preprocessing to in-depth analysis using DNABERT.
-- **Data Processing Pipelines**: Efficient workflows designed to handle and prepare DHS data for analysis.
 - **Analytical Tools**: Custom scripts and utilities that assist in the identification and characterization of cardiac regulatory elements.
 - **Results and Discussion**: Insights and findings from our ongoing research, including visualizations and interpretative commentary.
 
