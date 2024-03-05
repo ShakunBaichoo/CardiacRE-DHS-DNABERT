@@ -1,3 +1,9 @@
 This folder contains Jupyter notebooks dedicated to the analysis of heart-specific regulatory elements leveraging the capabilities of DNABERT. 
 The notebooks guide you through the process of identifying potential regulatory sequences in heart tissue, with a focus on understanding their unique roles and functionalities.
 All the files that are downloaded and processed are stored in this folder itself.
+
+There are two sets of Notebooks, one for Problem1 and one fro Problem2.
+
+The first two noteboks for Problem1 (for data preparation) are adapted versions of the Notebooks taken from the [DNA Diffusion project to load the DHSs](https://github.com/pinellolab/DNA-Diffusion/blob/main/notebooks/filter_master.ipynb "The DNA Diffusion Project"). The first notebook is used ot create the master dataset while the second one is used to filter out DHSs related to the heart organ. After filtering the data is fed to a fine-tuned pre-trained DNABERT model with kmers=6. The steps and details of running this step is provide in <b>DNABERT Prediction</b>. After running the prediction the results are analysed in the third notebook.
+
+As for Problem2, I have created my own verison of dataset using the DHSs and the vocabulary and proceeded with the DNABERT training and analysis of results as in Problem1.
