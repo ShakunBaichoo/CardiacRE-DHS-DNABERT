@@ -1,4 +1,4 @@
-<h1 align="center"> Heart-Specific Regulatory Elements Analysis with DNABERT</h1>
+<h1 align="center"> Data Preparation and Analysis of Heart-Specific Regulatory Elements with DNABERT</h1>
 This folder contains Jupyter notebooks dedicated to the analysis of heart-specific regulatory elements leveraging the capabilities of DNABERT. The notebooks guide you through the process of identifying potential regulatory sequences in heart tissue, focusing on understanding their unique roles and functionalities. All files that are downloaded and processed are stored within this folder itself.
 
 ## Overview
