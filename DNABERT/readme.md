@@ -11,6 +11,7 @@ These are already speciified in the notebooks.
 
 If the prepared data are saved in the specified DNABERT folder, then we can run the scripts (from the folder <b>examples</b> in DNABERT, to do the prediction and find motifs if there are any using the following bash:
 
+
 ## Fine-tuning the DNABERT model using our dataset - if we have time.
 This takes at least 24 hrs on a zbook with GPU and 8 cores (when tried with the sample data). So I did not do this step due to lack of time. I just used the fined-tuned pretrained DNABERT6 model.
 ```
