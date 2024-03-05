@@ -1,5 +1,5 @@
 # DNABERT Prediction
-This folder contains the DNABERT fine tuned model using kmers=6. However, we must first clone the DNABERT repo and then add our model in that one.
+This folder contains 2 sub-folders dhs and dhs2 with the DNABERT6 fine tuned pre-trained model using kmers=6. However, we must first clone the DNABERT repo and then add these 2 folders in the cloned DNABERT/examples folder. All data generated for DNABERT training will be saved in these folders.
 
 To use DNABERT we must <b>clone the DNABERT repo</b> and <b><u>set up the environment</u></b> using instructions from the [official DNABERT site](https://github.com/jerryji1993/DNABERT), one level above the current working directory. Hence you will have a folder DNABERT one level above your current working folder, i.e. <b>../DNABERT/</b>
 
